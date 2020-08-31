@@ -5,7 +5,7 @@ head{
  }
  body{
 	background-image: url("gifs/universo.png");
-	background-size: contain;
+	background-size: cover;
 	 color : white;
 	 width: auto;
 	 
